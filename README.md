@@ -77,7 +77,7 @@ RepCltr is the first brand in the **CLTR ecosystem** — a culture-driven platfo
 
 Got questions, want to collaborate, or just want to talk gym culture?
 
-📧 rrabdeep@nyit.edu  
+📧 rabdeepsingh06@gmail.com
 🌐 [repcltr.com](https://repcltr.com)  
 🔗 [linkedin.com/in/rabdeep-singh-1666b4270](https://linkedin.com/in/rabdeep-singh-1666b4270)
 
