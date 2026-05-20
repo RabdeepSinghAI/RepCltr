@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# RepCltr
+### Gear Up for Greatness.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A gymwear brand built for people who take the gym seriously — focused on unique, performance-driven activewear.
 
-## Available Scripts
+**Status:** 🟢 Live — Pre-Launch (Products Coming Soon)  
+**Website:** [repcltr.com](https://repcltr.com)  
+**Part of the [CLTR Ecosystem](#cltr-ecosystem)**
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## What Is RepCltr?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+RepCltr is a gymwear and activewear brand focused on creating unique, performance-first clothing for the fitness community. We're not here to make another generic gym brand — every piece we design is built around the culture of the gym: the discipline, the aesthetic, the mindset.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The name says it all — **Rep** (as in reps in the gym) + **Cltr** (culture). RepCltr is gym culture, worn.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Our Focus
 
-### `npm run build`
+- **Uniqueness first** — every product is designed to stand out, not blend in
+- **Performance-driven** — built to move, sweat, and last
+- **Minimal aesthetic** — clean designs that work in and out of the gym
+- **Culture-rooted** — made by people who live the gym lifestyle, for people who live it too
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## The Team
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Name | Role |
+|------|------|
+| Rabdeep Singh | Co-Founder |
+| Pratham | Co-Founder |
+| Henry | Co-Founder |
 
-### `npm run eject`
+A small team of 3–5 building something we'd actually wear ourselves.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Where We Are
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+| Milestone | Status |
+|-----------|--------|
+| Brand identity & name | ✅ Done |
+| Website live | ✅ [repcltr.com](https://repcltr.com) |
+| Email list / community building | ✅ Active |
+| Product design & development | 🚧 In Progress |
+| First product drop | 🔜 Coming Soon |
+| Fitcltr app integration | 🔮 Planned |
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## What's Coming
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Our first collection is in development. If you want to be first to know when we drop:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+👉 **Sign up at [repcltr.com](https://repcltr.com)** — early access, updates, and exclusive offers for our list.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## CLTR Ecosystem
 
-### Analyzing the Bundle Size
+RepCltr is the first brand in the **CLTR ecosystem** — a culture-driven platform of lifestyle brands and apps built around one audience: people who live fitness, style, and self-improvement as a culture.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+| Product | Type | Status |
+|---------|------|--------|
+| [RepCltr](https://repcltr.com) | Performance Gymwear Brand | 🟢 Live |
+| Fitcltr | Virtual Wardrobe & Outfit App (iOS) | 🚧 In Development |
+| Future verticals | Nutrition, Training, Community | 🔮 Planned |
 
-### Making a Progressive Web App
+> One suffix. One culture. Multiple touchpoints.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Got questions, want to collaborate, or just want to talk gym culture?
 
-### Deployment
+📧 rrabdeep@nyit.edu  
+🌐 [repcltr.com](https://repcltr.com)  
+🔗 [linkedin.com/in/rabdeep-singh-1666b4270](https://linkedin.com/in/rabdeep-singh-1666b4270)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2026 RepCltr — All Rights Reserved.  
+*Part of the CLTR ecosystem. Built for the culture.*
